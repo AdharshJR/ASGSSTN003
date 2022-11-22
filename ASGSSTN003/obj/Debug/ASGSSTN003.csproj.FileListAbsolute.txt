@@ -1,0 +1,8 @@
+C:\Users\Adharsh\source\repos\ASGSSTN003\ASGSSTN003\bin\Debug\ASGSSTN003.exe.config
+C:\Users\Adharsh\source\repos\ASGSSTN003\ASGSSTN003\bin\Debug\ASGSSTN003.exe
+C:\Users\Adharsh\source\repos\ASGSSTN003\ASGSSTN003\bin\Debug\ASGSSTN003.pdb
+C:\Users\Adharsh\source\repos\ASGSSTN003\ASGSSTN003\obj\Debug\ASGSSTN003.csproj.AssemblyReference.cache
+C:\Users\Adharsh\source\repos\ASGSSTN003\ASGSSTN003\obj\Debug\ASGSSTN003.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adharsh\source\repos\ASGSSTN003\ASGSSTN003\obj\Debug\ASGSSTN003.csproj.CoreCompileInputs.cache
+C:\Users\Adharsh\source\repos\ASGSSTN003\ASGSSTN003\obj\Debug\ASGSSTN003.exe
+C:\Users\Adharsh\source\repos\ASGSSTN003\ASGSSTN003\obj\Debug\ASGSSTN003.pdb
